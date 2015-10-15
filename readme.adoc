@@ -1,0 +1,22 @@
+= Developer Advocates Around The World
+
+. Simon Maple
+. Markus Eisele
+. Doris Chen
+. Josh Long
+. Reza Rahman
+. Sven Peters
+. Baruch Sadogursky
+. Stephen Chin
+. Amanda Waite
+. Alexis Moussine-Pouchkine
+. Burr Sutter
+. Steven Citron-Pousty
+. Grant Shipley
+. Geertjan Wielenga
+. Hadi Hariri
+. Tugdual Grall
+. Mark Heckler
+. Simon Ritter
+. Trisha Gee
+
