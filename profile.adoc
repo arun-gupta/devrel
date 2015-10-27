@@ -4,16 +4,17 @@
 . Twitter:
 . Blog:
 . Github:
-. How long you've a formal title?:
+. How long you've had a formal title?:
 . Preferred airline:
 . Favorite IDE:
 . Favorite Language(s):
 . Favorite cuisine:
+. How do you measure Developer Advocacy?
+.. ONE
+.. TWO
+.. THREE
 . Three most important tools/techniques for Developer Advocacy:
 .. ONE
 .. TWO
 .. THREE
-. How do you create scalable content?
-.. ONE
-.. TWO
-.. THREE
+
