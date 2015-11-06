@@ -1,0 +1,29 @@
+= Developer Advocate Markus Eisele
+
+. Name: Markus Eisele
+ . Company: Red Hat
+ . Twitter: https://www.twitter.com/myfear[@myfear]
+ . Email markus@jboss.org
+ . Blog: https://blog.eisele.net[blog.eisele.net]
+ . Github: https://github.com/myfear[https://github.com/myfear]
+ . How long you've a formal title?: Developer Advocate since 2 years. Working in that space since more than 10.
+ . Preferred airline: LUFTHANSA
+ . Favorite IDE: NetBeans, Notepad++, Eclipse with JBoss Tools
+ . Favorite (natural) Language(s):
+  .. German (native)
+  .. English
+  . Favorite (programming) Language(s):
+   .. Java
+. Favorite cuisine:
+.. Everything that is delicious and organic
+ . Three most important tools/techniques for Developer Advocacy:
+ .. People Skills
+ ... Communication (Listening, https://en.wikipedia.org/wiki/Four-sides_model[the four-sides model])
+ ... Presenting
+ ... Conflict Management (How to respond in challenging situations)
+ .. Technology (You have to know the stuff, that you're talking about)
+ .. Living to learn something new over and over again. Be curious.
+ . How do you create scalable content?
+ .. Creating talks that are relevant to a broad audience
+ .. Supporting talks with blog-posts and articles
+ .. Syndicate content through hubs (internally and externally); e.g. DZone, planet.jboss.org
