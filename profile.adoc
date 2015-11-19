@@ -1,23 +1,30 @@
 = Developer Advocate Profile
 
-. Name:
-. Twitter:
-. Blog:
-. Github:
-. How long you've had a formal title?:
-. Preferred airline:
-. Favorite IDE:
-. Favorite Language(s):
-. Favorite cuisine:
-. Three most important tools/techniques for Developer Advocacy:
+. *Name*:
+. *Twitter*:
+. *Blog*:
+. *Github*:
+. *How long you've had a formal title?*:
+. *Preferred airline*:
+. *Favorite IDE*:
+. *Favorite (natural) Language(s)*
+.. ONE
+.. TWO
+. *Favorite (natural) Language(s)*
+.. ONE
+.. TWO
+. *Favorite cuisine*
+.. ONE
+.. TWO
+. *Three most important tools/techniques for Developer Advocacy*
 .. ONE
 .. TWO
 .. THREE
-. How do you create scalable content?
+. *How do you create scalable content?*
 .. ONE
 .. TWO
 .. THREE
-. How do you measure Developer Advocacy?
+. *How do you measure Developer Advocacy?*
 .. ONE
 .. TWO
 .. THREE
