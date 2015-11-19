@@ -1,0 +1,31 @@
+= Developer Advocate Simon Maple
+
+. *Name*: Simon Maple
+. *Company*: ZeroTurnaround
+. *Twitter*: https://www.twitter.com/sjmaple[@sjmaple]
+. *Email*: sjmaple@gmail.com
+. *Blog*: https://zeroturnaround.com/rebellabs[zeroturnaround.com/rebellabs]
+. *Github*: https://github.com/sjmaple[https://github.com/sjmaple]
+. *How long you've a formal title?*: Developer Advocate for 5 years.
+. *Preferred airline*: British Airways
+. *Favorite IDE*: Eclipse
+. *Favorite (natural) Language(s)*
+.. English
+. *Favorite (programming) Language(s)*
+.. Java
+.. Groovy
+. *Favorite cuisine*
+.. Anything cooked with local high quality ingredients
+. *Three most important tools/techniques for Developer Advocacy*:
+.. Communication - Both having the ability to succinctly describe technical concepts as well as listen an understand requirements and pain points.
+.. Trust - It's incredibly important developer advocates are respected in their field, credible and honest.
+.. Network - A developer advocate is only as good as their reach, through connections and contacts.
+. *How do you create scalable content?*
+.. Good content can be used in multiple ways. A blog post can turn into a whitepaper, that might be a great presentation.
+.. Content can be cross posted on different sites and syndicated through aggregate sites.
+.. The best way to make content live longer is through good SEO and social outreach.
+. *How do you measure Developer Advocacy?*
+.. Outreach - how many people does your content touch? Attendees, readers, twitter impressions, etc
+.. Conversion - how many people enter your community or site from a known source that go on to interact or purchase
+.. Awareness - Twitter followers, community members, content subscribers etc.
+
