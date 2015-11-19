@@ -9,11 +9,15 @@
 . Favorite IDE:
 . Favorite Language(s):
 . Favorite cuisine:
-. How do you measure Developer Advocacy?
+. Three most important tools/techniques for Developer Advocacy:
 .. ONE
 .. TWO
 .. THREE
-. Three most important tools/techniques for Developer Advocacy:
+. How do you create scalable content?
+.. ONE
+.. TWO
+.. THREE
+. How do you measure Developer Advocacy?
 .. ONE
 .. TWO
 .. THREE
