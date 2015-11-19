@@ -1,7 +1,8 @@
 = Developer Advocates Around The World
 
-. Simon Maple
 . link:markus_eisele.adoc[Markus Eisele]
+. Simon Maple
+. link:arun_gupta.adoc[Arun Gupta]
 . Doris Chen
 . Josh Long
 . Reza Rahman
