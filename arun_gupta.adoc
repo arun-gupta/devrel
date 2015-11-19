@@ -1,0 +1,24 @@
+= Developer Advocate Profile
+
+. *Name*: Arun Gupta
+. *Twitter*: http://twitter.com/arungupta[@arungupta]
+. *Blog*: http://blog.arungupta.me[Miles to go ...]
+. *Github*: http://github.com/arun-gupta
+. *How long you've had a formal title?*: 9+ years
+. *Preferred airline*: United
+. *Favorite IDE*: NetBeans, IntelliJ, Sublime Text, Eclipse
+. *Favorite Language(s)*: Java
+. *Favorite cuisine*: Protein and fiber-rich, stay away from red meat
+. *Three most important tools/techniques for Developer Advocacy*:
+.. Try the bleeding edge tools and feel the developer's pain before they do. File tons of bugs.
+.. Keep OOTB experience for your products/technologies *really* simple
+.. Stay hungry, stay foolish - Learn, learn, learn all the time!
+. *How do you create scalable content?*
+.. Create content once, reuse/syndicate wherever possible
+.. Typically follow the flow: Blog -> Slides -> Hands-on workshop -> Talk at an event
+.. Instead of making it a product pitch, keep the topic generic and relevant to current topics
+. *How do you measure Developer Advocacy?*
+.. Scalable content (blogs, articles, webinars, hands-on labs)
+.. Twitter mentions, impressions, growth of followers
+.. Page/webinar views, developer outreach at talks
+
