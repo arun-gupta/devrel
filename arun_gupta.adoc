@@ -7,8 +7,13 @@
 . *How long you've had a formal title?*: 9+ years
 . *Preferred airline*: United
 . *Favorite IDE*: NetBeans, IntelliJ, Sublime Text, Eclipse
-. *Favorite Language(s)*: Java
-. *Favorite cuisine*: Protein and fiber-rich, stay away from red meat
+. *Favorite (natural) Language(s)*
+.. English
+.. Hindi
+. *Favorite (programming) Language(s)*
+.. Java
+. *Favorite cuisine*
+.. Protein and fiber-rich, stay away from red meat
 . *Three most important tools/techniques for Developer Advocacy*:
 .. Try the bleeding edge tools and feel the developer's pain before they do. File tons of bugs.
 .. Keep OOTB experience for your products/technologies *really* simple
