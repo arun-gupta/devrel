@@ -28,6 +28,6 @@
 .. Supporting talks with blog-posts and articles
 .. Syndicate content through hubs (internally and externally); e.g. DZone, planet.jboss.org
 . *How do you measure Developer Advocacy?*
-.. ONE
-.. TWO
-.. THREE
+.. Basic Metrics (Social Media Reach, PageViews, Downloads, etc.)
+.. Extended Marketing Metrics (Company internal)
+.. Event Metrics (Session Ratings, etc.)
