@@ -18,7 +18,6 @@
 . Grant Shipley
 . Geertjan Wielenga
 . Tugdual Grall
-. Mark Heckler
+. link:mark_heckler.adoc[Mark Heckler]
 . Simon Ritter
 . Trisha Gee
-
