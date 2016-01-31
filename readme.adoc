@@ -3,6 +3,7 @@
 . link:markus_eisele.adoc[Markus Eisele]
 . link:simon_maple.adoc[Simon Maple]
 . link:arun_gupta.adoc[Arun Gupta]
+. link:vlad_mihalcea.adoc[Vlad Mihalcea]
 . Doris Chen
 . Josh Long
 . Reza Rahman
