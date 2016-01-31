@@ -1,4 +1,4 @@
-= Developer Advocate Markus Eisele
+= Developer Advocate Vlad Mihalcea
 
 . *Name*: Vlad Mihalcea
 . *Company*: Red Hat
