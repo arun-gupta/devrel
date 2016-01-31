@@ -1,0 +1,34 @@
+= Developer Advocate Profile
+
+. *Name*: Mark Heckler
+. *Company*: Pivotal
+. *Twitter*: https://twitter.com/MkHeck[@MkHeck]
+. *Email*: mark@thehecklers.org, mark.heckler@gmail.com
+. *Blog*: http://www.thehecklers.org[http://www.thehecklers.org]
+. *Github*: https://github.com/hecklerm[https://github.com/hecklerm]
+. *How long you've had a formal title?*: Title for 2 years, responsibility for 5, developer since I got my first computer!
+. *Preferred airline*: United
+. *Favorite IDE*: IntelliJ IDEA, Spring Tool Suite, NetBeans
+. *Favorite (natural) Language(s)*
+.. English
+.. Español
+. *Favorite (programming) Language(s)*
+.. Java
+.. JavaScript
+. *Favorite cuisine*
+.. Indian food of nearly any kind
+.. Mexican food of nearly any kind
+.. Chinese food of nearly any kind
+.. Food of nearly any kind
+. *Three most important tools/techniques for Developer Advocacy*
+.. Insatiable thirst for knowledge
+.. Burning desire to share that knowledge
+.. Ability to understand and empathize with another's situation and share relevant information clearly and _usefully_
+. *How do you create scalable content?*
+.. Create content with broad relevance for greater reach, and more importantly, greater applicability
+.. Create content that can be adapted to multiple formats: concept documents, quick tips, deep-dive "how to" articles, short presentations, and workshops
+.. Leverage social media to get the word out about existing content and solicit feedback and ideas for future content
+. *How do you measure Developer Advocacy?*
+.. Basic Metrics (Social Media Reach, PageViews, Downloads, etc.)
+.. Extended Marketing Metrics (company internal)
+.. Event Metrics (Session Ratings, Tweets)
