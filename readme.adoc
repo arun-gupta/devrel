@@ -15,7 +15,7 @@
 . Steven Citron-Pousty
 . Grant Shipley
 . Geertjan Wielenga
-. Hadi Hariri
+. link::hadi_hariri.adoc[Hadi Hariri]
 . Tugdual Grall
 . Mark Heckler
 . Simon Ritter
