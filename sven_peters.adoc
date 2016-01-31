@@ -1,0 +1,32 @@
+= Developer Advocate Profile
+
+. *Name*: Sven Peters
+. *Twitter*: http://twitter.com/svenpet[@svenpet]
+. *Blog*: http://svenpet.com[svenpet.com]
+. *Bitbucket*: https://bitbucket.org/sven_peters/
+. *How long you've had a formal title?*: 4+ years
+. *Preferred airline*: Lufthansa
+. *Favorite IDE*: IntelliJ, Eclipse
+. *Favorite (natural) Language(s)*
+.. German (native)
+.. English
+.. Danish
+. *Favorite (programming) Language(s)*
+.. Java
+. *Favorite cuisine*
+.. everything without fish
+. *Three most important tools/techniques for Developer Advocacy*:
+.. engaging directly with the community (User groups, conferences, online communities, etc.)
+.. creating talks that are relevant for the audience (no product pitches)
+.. create tools to measure success, be sure what you want to achieve
+. *How do you create scalable content?*
+.. invest a lot of time in talk creation (slides, story, flow) to deliver it as often as possible
+.. make your talks so other people at your organization can give those (I can't clone myself, but the content can)
+.. teach other people how to tell stories, create tutorials, give presentations, etc. 
+.. having in mind that talks can easily be adopted to different audiences / markets
+.. create online content from talks
+.. avoid prodcut pitches so the content is relevant and people like to share it
+. *How do you measure Developer Advocacy?*
+.. attendees at presentations, number of presentations, geographic outreach, market outreach
+.. online content visistors (blogs, articles, tutorials, slideshare, etc.)
+.. social media engement: twitter, hacker news, redit, etc..
