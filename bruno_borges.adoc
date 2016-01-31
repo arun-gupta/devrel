@@ -1,0 +1,31 @@
+= Developer Advocate Profile: Bruno Borges
+
+. *Name*: Bruno Borges
+. *Company*: Oracle
+. *Twitter*: https://www.twitter.com/brunoborges[@brunoborges]
+. *Email*: bruno.borges@gmail.com
+. *Blog*: https://blogs.oracle.com/brunoborges[blogs.oracle.com/brunoborges]
+. *Github*: https://github.com/brunoborges[https://github.com/brunoborges]
+. *How long you've a formal title?*: Never had.
+. *Preferred airline*: American Airlines
+. *Favorite IDE*: It depends, but usually NetBeans/Eclipse, and text editors (vim/Sublime).
+. *Favorite (natural) Language(s)*
+.. Portuguese (native)
+.. Spanish
+.. English
+. *Favorite (programming) Language(s)*
+.. Java
+.. Javascript
+.. Shell scripting
+. *Favorite cuisine*
+.. Red meat and beer
+. *Three most important tools/techniques for Developer Advocacy*:
+.. Communication outreach, and beyond comfortable zone. (such as communicating with people from different languages)
+.. Technical knowledge beyond usual "hello world". (some real world experiences are a great differentiator to have)
+.. Great networking with other organizations inside your corporation (dev advocacy is also about internalizing feedback)
+. *How do you create scalable content?*
+.. Social media, blogging, writing technical articles, externalizing real world use cases, presentations.
+. *How do you measure Developer Advocacy?*
+.. By how much you can influence Products Roadmaps
+.. By how many developers you can help to achieve their goals with the products you advocate for
+.. Quality and quantity of successful customers' projects
