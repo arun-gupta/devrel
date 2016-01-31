@@ -1,0 +1,27 @@
+= Developer Advocate Hadi Hariri
+
+. *Name*: Hadi Hariri
+. *Company*: JetBrains
+. *Twitter*: https://www.twitter.com/hhariri[@hhariri]
+. *Email*: mail@hadihariri.com
+. *Blog*: https://hadihariri.com[http://hadihariri.com]
+. *Github*: https://github.com/[https://github.com/hhariri]
+. *How long you've a formal title?*: Developer Advocate for 6 years.
+. *Preferred airline*: Air France
+. *Favorite IDE*: IntelliJ IDEA
+. *Favorite (natural) Language(s)*
+.. English
+. *Favorite (programming) Language(s)*
+.. Kotlin, C#, JavaScript
+. *Favorite cuisine*
+.. Persian
+. *Three most important tools/techniques for Developer Advocacy*:
+.. Knowing how to communicate
+.. Enjoying learning
+.. Not being a pundit
+. *How do you create scalable content?*
+.. Scalable in time: Create content that doesn't have an expiry date (every JavaScript framework does)
+.. Scalable in reach: Create contnet that people want to share (nothing boring!)
+.. Scalable in usage: Create content that can be repurposed (a blog post can form part of a book)
+. *How do you measure Developer Advocacy?*
+.. Depends on what you want to measure, and if those things measuring actually have any value. KPI's are often used for CYA's more than anything else.
