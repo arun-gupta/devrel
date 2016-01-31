@@ -1,0 +1,30 @@
+= Developer Advocate Markus Eisele
+
+. *Name*: Vlad Mihalcea
+. *Company*: Red Hat
+. *Twitter*: https://www.twitter.com/vlad_mihalcea[@vlad_mihalcea]
+. *Email*: vlad@hibernate.org
+. *Blog*: http://vladmihalcea.com[vladmihalcea.com]
+. *Github*: https://github.com/vladmihalcea[https://github.com/vladmihalcea]
+. *How long you've had a formal title?*: Developer Advocate since 2 months. Ten years working experience.
+. *Preferred airline*: TAROM
+. *Favorite IDE*: IntelliJ IDEA
+. *Favorite (natural) Language(s)*
+.. Romanian (native)
+.. English
+.. French
+. *Favorite (programming) Language(s)*
+.. Java
+. *Favorite cuisine*
+.. Romanian
+. *Three most important tools/techniques for Developer Advocacy*:
+.. Expertize: You need to be very skilled in the field you are advocating
+.. Communication: Being a good listener and knowing how to deliver information, be it in a speech or a written document
+.. Charisma: Be friendly and helpful.
+. *How do you create scalable content?*
+.. Improving documentation and writing focused blog posts and tutorials
+.. Aggregating relevant content in a community newsletter
+.. Broadcasting articles on network channels: Twitter, Reddit.
+. *How do you measure Developer Advocacy?*
+.. Metrics (Number of downloads, twitter followers and impressions)
+.. Community engagement (blog posts, tutorials, courses).
