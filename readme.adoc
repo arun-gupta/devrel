@@ -7,6 +7,7 @@
 . link:josh_long.adoc[Josh Long]
 . link:sven_peters.adoc[Sven Peters]
 . link:hadi_hariri.adoc[Hadi Hariri]
+. link:bruno_borges.adoc[Bruno Borges]
 . Doris Chen
 . Reza Rahman
 . Baruch Sadogursky
