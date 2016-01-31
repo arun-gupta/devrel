@@ -24,8 +24,8 @@
 . *How do you create scalable content?*
 .. Creating talks that are relevant to a broad audience
 .. Supporting talks with blog-posts and articles
-.. Syndicate content through hubs (internally and externally); e.g. DZone, InfoQ, the [Spring Blog](http://spring.io/blog)
-.. write [books](http://shop.oreilly.com/product/0636920038252.do) and deliver [video trainings](https://www.safaribooksonline.com/library/view/building-microservices-with/9780134192468/part00.html)
+.. Syndicate content through hubs (internally and externally); e.g. DZone, InfoQ, the http://spring.io/blog[Spring Blog]
+.. write http://shop.oreilly.com/product/0636920038252.do[books] and deliver https://www.safaribooksonline.com/library/view/building-microservices-with/9780134192468/part00.html[video trainings]
 . *How do you measure Developer Advocacy?*
 .. Basic Metrics (Social Media Reach, PageViews, Downloads, etc.)
 .. Extended Marketing Metrics (company internal)
