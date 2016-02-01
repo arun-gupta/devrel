@@ -1,0 +1,30 @@
+= Developer Advocate Profile
+
+. *Name*: Mano Marks
+. *Twitter*: http://twitter.com/ManoMarks[@manomarks]
+. *Blog*: http://manomarks.github.io/[Random Nodes]
+. *Github*: http://github.com/ManoMarks
+. *How long you've had a formal title?*: 9+ years
+. *Preferred airline*: Hate them all
+. *Favorite IDE*: Atom, Sublime Text
+. *Favorite (natural) Language(s)*
+.. English
+.. Hungarian
+. *Favorite (programming) Language(s)*
+.. JavaScript
+. *Favorite cuisine*
+.. Hard to choose, I'm a foodie, but I'd say Italian or Mexican
+. *Three most important tools/techniques for Developer Advocacy*:
+.. Always be coding
+.. Listen
+.. Learn
+.. Talk
+. *How do you create scalable content?*
+.. Go where your developers are
+.. You can't ignore events, but online content is the only thing that scales
+.. Partner, partner, partner
+. *How do you measure Developer Advocacy?*
+.. Views and engagement on videos and content
+.. People spoken to
+.. Useage of product
+.. Definitely not "share-of-voice"
