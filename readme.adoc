@@ -22,3 +22,4 @@
 . link:mark_heckler.adoc[Mark Heckler]
 . Simon Ritter
 . Trisha Gee
+. link:mano_marks.adoc[Mano Marks]
