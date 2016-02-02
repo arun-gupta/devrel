@@ -21,7 +21,7 @@
 .. Not being a pundit
 . *How do you create scalable content?*
 .. Scalable in time: Create content that doesn't have an expiry date (every JavaScript framework does)
-.. Scalable in reach: Create contnet that people want to share (nothing boring!)
+.. Scalable in reach: Create content that people want to share (nothing boring!)
 .. Scalable in usage: Create content that can be repurposed (a blog post can form part of a book)
 . *How do you measure Developer Advocacy?*
 .. Depends on what you want to measure, and if those things measuring actually have any value. KPI's are often used for CYA's more than anything else.

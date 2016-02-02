@@ -1,0 +1,47 @@
+= Developer Advocate Trisha Gee
+
+. *Name*: Trisha Gee
+. *Company*: JetBrains
+. *Twitter*: https://www.twitter.com/trisha_gee[@trisha_gee]
+. *Email*: trisha.gee@jetbrains.com
+. *Blog*: http://trishagee.com[trishagee.com]
+. *Github*: https://github.com/trishagee[https://github.com/trishagee]
+. *How long you've a formal title?*: Officially a Developer Advocate for 1 year, but been doing advocacy for 5 years
+. *Preferred airline*: British Airways
+. *Favorite IDE*: IntelliJ IDEA
+. *Favorite (natural) Language(s)*
+.. English.
+.. Currently learning Spanish.
+. *Favorite (programming) Language(s)*
+.. Java
+.. Groovy
+.. Kotlin
+. *Favorite cuisine*
+.. Curry (English-style)
+. *Three most important tools/techniques for Developer Advocacy*:
+.. The ability to break complex topics into something that's easy to digest and (preferably) applicable to the day-job
+.. Credibility - developers tend to listen best to those who are either developers themselves or have a proven
+understanding of the concerns of developers.
+.. Being approachable - so people can ask "stupid" questions and know they won't be laughed or sneered at.
+. *How do you create scalable content?*
+.. Personally I like to select a theme to follow which leads to presentations, blog posts and tutorials.  For
+example, last year I picked "Java 8 in Anger" - it required an upfront investment of really understanding Java 8's
+features and what they might be useful for, but that investment paid off with a live-coding presentation which could
+be presented at almost any technical conference, a tutorial which could be run as a half or full day, and a series of
+blog posts, articles, and screencasts which explored various aspects of Java 8.
+.. Although they're a lot of work, live demos are scalable as they can be more easily presented remotely or worked
+into one or more screencasts.  Screencasts and videos are a great way to reach many more people than a single
+conference.
+.. Content that applies outside of a single niche is more scalable - "Java 8 in Anger" lead to a lot of material, but
+it has little relevance for non-Java developers. I've created apps utilising a range of technologies working
+together (e.g. AngularJS, MongoDB and Groovy) which can mean that developers from a range of backgrounds pick
+something up. Also more general topics like Data Structures, how to design systems and how to select technologies are
+relevant for many techies and also less likely to go out of fashion.
+. *How do you measure Developer Advocacy?*
+.. You can use metrics like: page views; video watches; conference attendee numbers; Twitter followers;
+newsletter subscribers; links followed; downloads etc. But it's difficult
+to determine exactly how much benefit advocacy gives to the business bottom line - it's a form of pre-pre-sales, and
+could be a long time between someone seeing a presentation or reading a blog, and ultimately spending money on a
+product. How to measure the specific impact of advocacy on the revenue of the business that supports it is a difficult
+question to answer.
+
