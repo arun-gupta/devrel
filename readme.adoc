@@ -21,4 +21,4 @@
 . Tugdual Grall
 . link:mark_heckler.adoc[Mark Heckler]
 . Simon Ritter
-. Trisha Gee
+. link:trisha_gee.adoc[Trisha Gee]
