@@ -1,0 +1,28 @@
+= Cloud Platform Advocate Matthias Steiner
+
+. *Name*: Matthias Steiner
+. *Company*: SAP SE
+. *Twitter*: https://www.twitter.com/steinermatt[@steinermatt]
+. *Email*: matthias.steiner@sap.com
+. *Blog*: http://inscope.net[inscope.net]
+. *Github*: https://github.com/steinermatt[https://github.com/steinermatt]
+. *How long you've a formal title?*: Rolling as 'Cloud Platform Evangelist' since 2012 year, been working in that space for more than a decade now.
+. *Preferred airline*: LUFTHANSA
+. *Favorite IDE*: Eclipse (yeah, call me old-fashioned)
+. *Favorite (natural) Language(s)*
+.. German (native)
+.. English (fluent)
+. *Favorite (programming) Language(s)*
+.. Java
+. *Favorite cuisine*
+.. Pretty much everything... plus: meat lover
+. *Three most important tools/techniques for Developer Advocacy*:
+.. Communication, communication, communication (incl. cultural awareness) 
+.. Being an autodidact and embracing life-long learning
+.. Staying young at heart & keeping the excitment about new tech
+. *How do you create scalable content?*
+.. Avoid product pitches, instead talk about topics of broader interest
+.. Cross-reference related materials, give proper credit & attribution
+.. Tagging, tagging, tagging
+. *How do you measure Developer Advocacy?*
+.. How to measure influence? Tough one to crack... (don't you dare say: Klout score!)
