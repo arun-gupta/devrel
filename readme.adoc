@@ -1,26 +1,60 @@
-= Developer Advocates Around The World
+= Developer Relations Around The World
 
-. link:markus_eisele.adoc[Markus Eisele]
-. link:simon_maple.adoc[Simon Maple]
-. link:arun_gupta.adoc[Arun Gupta]
-. link:vlad_mihalcea.adoc[Vlad Mihalcea]
-. link:josh_long.adoc[Josh Long]
-. link:sven_peters.adoc[Sven Peters]
-. link:hadi_hariri.adoc[Hadi Hariri]
-. link:bruno_borges.adoc[Bruno Borges]
-. link:mano_marks.adoc[Mano Marks]
+Developer Relations, Developer Advocate, Developer/Technology Evangelist, Community Manager are some of the names given to the craft of people who make effective users of your technlogy. It could be a product, platform, API, a mobile application, website, or anything that you want to promote.
+
+== #DevRel Strategy
+
+=== Strategy
+
+Content is king! Make sure it's SEO-optimized otherwise its sitting in a silo.
+
+Three types of contents:
+
+- What
+- How
+- Wow
+
+=== Tactics
+
+* Blogging - blogging cadence is important
+* Speaking at conferences and meetups
+** Track conference CFPs that matter to your audience. Some of the conferences have 6-8 months lead time. Most of the conferences would straight reject a product pitch. So your talk title/abstract should focus on solving a problem.
+** Search for meetups relevant to your audience at meetup.com. Reach out to the meetup leader by sending an email to Organizers (link on the left panel of meetup page). You may consider speaking at the local meetup when speaking in a new city at a conference.
+* Podcasts - Software Engineering Daily
+* Webinars
+* Videos
+* Social media
+* Sample Applications
+* Demos
+* Answering questions on Forums and/or Stackoverflow
+* Ready-to-use slides, with speaker notes (1 slide, 5 slides, 30 slides)
+
+==== SEO optimization
+
+Your content has to be SEO-optimized. Nobody will come to your website, unless you are Google or Facebook, if your content is not indexed by two search engines - Google and Bing.
+
+== Profiles of Developer Advocate
+
+. link:profiles/markus_eisele.adoc[Markus Eisele]
+. link:profiles/simon_maple.adoc[Simon Maple]
+. link:profiles/arun_gupta.adoc[Arun Gupta]
+. link:profiles/vlad_mihalcea.adoc[Vlad Mihalcea]
+. link:profiles/josh_long.adoc[Josh Long]
+. link:profiles/sven_peters.adoc[Sven Peters]
+. link:profiles/hadi_hariri.adoc[Hadi Hariri]
+. link:profiles/bruno_borges.adoc[Bruno Borges]
+. link:profiles/mano_marks.adoc[Mano Marks]
+. link:profiles/mark_heckler.adoc[Mark Heckler]
+. link:profiles/trisha_gee.adoc[Trisha Gee]
+. link:profiles/matthias_steiner.adoc[Matthias Steiner]
 . Doris Chen
-. Reza Rahman
 . Baruch Sadogursky
 . Stephen Chin
 . Amanda Waite
-. Alexis Moussine-Pouchkine
 . Burr Sutter
 . Steven Citron-Pousty
 . Grant Shipley
 . Geertjan Wielenga
 . Tugdual Grall
-. link:mark_heckler.adoc[Mark Heckler]
 . Simon Ritter
-. link:trisha_gee.adoc[Trisha Gee]
-. link:matthias_steiner.adoc[Matthias Steiner]
+
