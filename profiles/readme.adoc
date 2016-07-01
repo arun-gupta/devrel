@@ -1,0 +1,25 @@
+= Profiles of Developer Advocate
+
+. link:markus_eisele.adoc[Markus Eisele]
+. link:simon_maple.adoc[Simon Maple]
+. link:arun_gupta.adoc[Arun Gupta]
+. link:vlad_mihalcea.adoc[Vlad Mihalcea]
+. link:josh_long.adoc[Josh Long]
+. link:sven_peters.adoc[Sven Peters]
+. link:hadi_hariri.adoc[Hadi Hariri]
+. link:bruno_borges.adoc[Bruno Borges]
+. link:mano_marks.adoc[Mano Marks]
+. link:mark_heckler.adoc[Mark Heckler]
+. link:trisha_gee.adoc[Trisha Gee]
+. link:matthias_steiner.adoc[Matthias Steiner]
+. Doris Chen
+. Baruch Sadogursky
+. Stephen Chin
+. Amanda Waite
+. Burr Sutter
+. Steven Citron-Pousty
+. Grant Shipley
+. Geertjan Wielenga
+. Tugdual Grall
+. Simon Ritter
+

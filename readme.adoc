@@ -33,28 +33,5 @@ Three types of contents:
 
 Your content has to be SEO-optimized. Nobody will come to your website, unless you are Google or Facebook, if your content is not indexed by two search engines - Google and Bing.
 
-== Profiles of Developer Advocate
-
-. link:profiles/markus_eisele.adoc[Markus Eisele]
-. link:profiles/simon_maple.adoc[Simon Maple]
-. link:profiles/arun_gupta.adoc[Arun Gupta]
-. link:profiles/vlad_mihalcea.adoc[Vlad Mihalcea]
-. link:profiles/josh_long.adoc[Josh Long]
-. link:profiles/sven_peters.adoc[Sven Peters]
-. link:profiles/hadi_hariri.adoc[Hadi Hariri]
-. link:profiles/bruno_borges.adoc[Bruno Borges]
-. link:profiles/mano_marks.adoc[Mano Marks]
-. link:profiles/mark_heckler.adoc[Mark Heckler]
-. link:profiles/trisha_gee.adoc[Trisha Gee]
-. link:profiles/matthias_steiner.adoc[Matthias Steiner]
-. Doris Chen
-. Baruch Sadogursky
-. Stephen Chin
-. Amanda Waite
-. Burr Sutter
-. Steven Citron-Pousty
-. Grant Shipley
-. Geertjan Wielenga
-. Tugdual Grall
-. Simon Ritter
+link:profiles/readme.adoc[Profiles of Developer Advocates]
 
