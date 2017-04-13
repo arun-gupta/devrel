@@ -17,6 +17,7 @@ Three types of contents:
 === Tactics
 
 * Blogging - blogging cadence is important
+** Talk about bleeding edge topics and show your technology is relevant there.
 * Speaking at conferences and meetups
 ** Track conference CFPs that matter to your audience. Some of the conferences have 6-8 months lead time. Most of the conferences would straight reject a product pitch. So your talk title/abstract should focus on solving a problem.
 ** Search for meetups relevant to your audience at meetup.com. Reach out to the meetup leader by sending an email to Organizers (link on the left panel of meetup page). You may consider speaking at the local meetup when speaking in a new city at a conference.
