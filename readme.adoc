@@ -6,7 +6,7 @@ Developer Relations, Developer Advocate, Developer/Technology Evangelist, Commun
 
 === Strategy
 
-Content is king! Make sure it's SEO-optimized otherwise its sitting in a silo.
+Content is king! Make sure it's SEO-optimized otherwise it's sitting in a silo.
 
 Three types of contents:
 
